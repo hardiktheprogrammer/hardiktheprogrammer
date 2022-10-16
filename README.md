@@ -1,4 +1,4 @@
-[![Watch the video](https://github.com/hardiktheprogrammer/hardiktheprogrammer/blob/main/Purple%20Black%203D%20and%20Modern%20Thank%20You%20500%20Items%20Sold%20Twitter%20Post.mp4)
+![Watch the video](https://github.com/hardiktheprogrammer/hardiktheprogrammer/blob/main/Purple%20Black%203D%20and%20Modern%20Thank%20You%20500%20Items%20Sold%20Twitter%20Post.mp4)
 <h1 align="center">Hi 👋, I'm Hardik sharma</h1>
 <h3 align="center">Full-stack Blockchain developer (Freelancer) Multi-chain</h3>
 <img align = "right" alt = "Blockchain" width="400" src="https://c.tenor.com/TCKfBcXic2oAAAAd/ethereum-eth.gif">
