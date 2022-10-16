@@ -1,4 +1,4 @@
-![logo](https://www.canva.com/design/DAFPMmzcIBQ/CJRS2Sudqq_KK9LrI1in0A/edit?utm_content=DAFPMmzcIBQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton.png)
+![logo](https://github.com/hardiktheprogrammer/hardikbio/blob/main/Purple%20Black%203D%20and%20Modern%20Thank%20You%20500%20Items%20Sold%20Twitter%20Post.png)
 <h1 align="center">Hi 👋, I'm Hardik sharma</h1>
 <h3 align="center">Full-stack Blockchain developer (Freelancer) Multi-chain</h3>
 <img align = "right" alt = "Blockchain" width="400" src="https://c.tenor.com/TCKfBcXic2oAAAAd/ethereum-eth.gif">
