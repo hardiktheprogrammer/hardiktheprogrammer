@@ -31,7 +31,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/hardiksharE"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hardiksharE" /></a>
-<a href="https://www.linkedin.com/in/hardik-sharma-7a0025203/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="50" width="50"/></a>
+<a href="https://www.linkedin.com/in/hardik-sharma-7a0025203/"><img  align = "left" src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="50" width="210"/></a>
 
 
 </p><br><br>
