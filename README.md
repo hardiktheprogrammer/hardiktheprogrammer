@@ -30,7 +30,11 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/hardiksharE"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hardiksharE" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/hardiksharE"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hardiksharE" /></a>
+<a href="https://www.linkedin.com/in/hardik-sharma-7a0025203/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+
+</p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hardiktheprogrammer&show_icons=true&locale=en&layout=compact" alt="hardiktheprogrammer" /></p>
 
