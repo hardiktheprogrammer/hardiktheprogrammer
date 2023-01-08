@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/hardikthecoder" target="blank"><img src="https://img.shields.io/twitter/follow/hardikthecoder?logo=twitter&style=for-the-badge" alt="hardikthecoder" /></a> </p>
 
-- 🌱 I’m currently learning Next.js **Next.js**
+- 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **ReactJS , solidity , Ether.js**
 
