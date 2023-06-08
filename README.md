@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/hardikthecoder" target="blank"><img src="https://img.shields.io/twitter/follow/hardikthecoder?logo=twitter&style=for-the-badge" alt="hardikthecoder" /></a> </p>
 
-- 🌱 I’m currently learning  Unlearn Skills **Unlearn**
+- 🌱  learning  Unlearn Skills 
 
 - 💬 Ask me about **ReactJS , solidity , Ether.js**
 
