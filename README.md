@@ -8,8 +8,8 @@
 <p align="left"> <a href="https://twitter.com/hardikthecoder" target="blank"><img src="https://img.shields.io/twitter/follow/hardikthecoder?logo=twitter&style=for-the-badge" alt="hardikthecoder" /></a> </p>
 
 - 🌱  Check out my writing work [Medium](https://medium.com/@explain_Truth.com) , [mirror](https://mirror.xyz/0x4C95dB6D964f33F91B4dc0178187653dA2e9EB9e)
-- 📫 How to reach me **hardiksharma9166@gmail.com**
-
+- 📫 How to reach me -  **hardiksharma9166@gmail.com**
+- contributor at @starknet
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
