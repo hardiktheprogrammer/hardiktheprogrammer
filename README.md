@@ -1,4 +1,4 @@
-![logo](https://github.com/hardiktheprogrammer/hardikbio/blob/main/Purple%20Black%203D%20and%20Modern%20Thank%20You%20500%20Items%20Sold%20Twitter%20Post.png)
+  ![logo](https://github.com/hardiktheprogrammer/hardikbio/blob/main/Purple%20Black%203D%20and%20Modern%20Thank%20You%20500%20Items%20Sold%20Twitter%20Post.png)
 <h1 align="center">Hi 👋, I'm Hardik sharma</h1>
 <h3 align="center">Full-stack Blockchain developer (Freelancer) Multi-chain</h3>
 <img align = "right" alt = "Blockchain" width="400" src="https://c.tenor.com/TCKfBcXic2oAAAAd/ethereum-eth.gif">
@@ -8,7 +8,8 @@
 <p align="left"> <a href="https://twitter.com/hardikthecoder" target="blank"><img src="https://img.shields.io/twitter/follow/hardikthecoder?logo=twitter&style=for-the-badge" alt="hardikthecoder" /></a> </p>
 
 - 🌱  Check out my writing work [Medium](https://medium.com/@explain_Truth.com) , [mirror](https://mirror.xyz/0x4C95dB6D964f33F91B4dc0178187653dA2e9EB9e)
-- 📫 How to reach me -  **hardiksharma9166@gmail.com**
+- 📫 How to reach me -  **hardiksharma9166@gmail.com** , alternative mail - **codehardik99@gmail.com**
+- 
 - contributor at @starknet
 <h3 align="left">Connect with me:</h3>
 <p align="left">
