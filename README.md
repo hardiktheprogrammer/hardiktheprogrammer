@@ -9,7 +9,6 @@
 
 - 🌱  Check out my writing work [Medium](https://medium.com/@explain_Truth.com) , [mirror](https://mirror.xyz/0x4C95dB6D964f33F91B4dc0178187653dA2e9EB9e)
 - 📫 How to reach me -  **hardiksharma9166@gmail.com** , alternative mail - **codehardik99@gmail.com**
-- 
 - contributor at @starknet
 <h3 align="left">Connect with me:</h3>
 <p align="left">
