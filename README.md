@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hardik sharma</h1>
-<h3 align="center">Full-stack Blockchain developer (Freelancer) Multi-chain</h3>
+<h1 align="center">Hi 👋, I'm Hardik, a Developer Relations professional at zkLayer and a founding member of NadDAO. I’m also a founding member of W3CG Labs, </h1>
+<h3 align="center"> Dev and Devrel at zklayer </h3>
 <img align = "right" alt = "Blockchain" width="400" src="https://c.tenor.com/TCKfBcXic2oAAAAd/ethereum-eth.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hardiktheprogrammer&label=Profile%20views&color=0e75b6&style=flat" alt="hardiktheprogrammer" /> </p>
