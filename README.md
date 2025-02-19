@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, love distribution ,System programing and a founding member of NadDAO. I’m also a founding member of W3CG Labs, </h1>
+<h1 align="center"> Hi i'm Dev Evangelist for @buildnexio👋,love distribution ,System programing ,vibing @nillionnetwork , flirting on @dao_nad Ex @Starknet Contributor , member - @W3CG_Labs
+</h1>
 <h3 align="center"> blockchain Dev  </h3>
 <img align = "right" alt = "Blockchain" width="400" src="https://c.tenor.com/TCKfBcXic2oAAAAd/ethereum-eth.gif">
 
